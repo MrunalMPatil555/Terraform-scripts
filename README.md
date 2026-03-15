@@ -1,4 +1,4 @@
-###### **Terraform AWS Infrastructure**
+**Terraform AWS Infrastructure**
 
 
 
@@ -7,8 +7,6 @@ This repository contains simple Terraform configurations to provision resources 
 
 
 The Terraform files in this repository demonstrate how to define and deploy AWS resources in a repeatable and version-controlled manner.
-
-
 
 ###### Prerequisites
 
