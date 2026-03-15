@@ -8,10 +8,9 @@ This repository contains simple Terraform configurations to provision resources 
 
 The Terraform files in this repository demonstrate how to define and deploy AWS resources in a repeatable and version-controlled manner.
 
-###### Prerequisites
+# Prerequisites
 
 Before using this repository, make sure you have the following installed:
-
 
 
 * Terraform
@@ -21,7 +20,7 @@ Before using this repository, make sure you have the following installed:
 
 
 
-###### Example Resources Created
+# Example Resources Created
 
 Depending on the Terraform files in this repository, the following AWS resources may be created:
 
@@ -35,7 +34,7 @@ Depending on the Terraform files in this repository, the following AWS resources
 
 
 
-###### Why Terraform?
+# Why Terraform?
 
 Terraform allows you to:
 
